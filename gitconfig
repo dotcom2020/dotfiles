@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nassim.brahimi4@gmail.com
+	name = Nassim Brahimi
